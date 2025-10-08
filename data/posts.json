@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "postId": "1758777207745",
+    "content": "Hello, my first post!",
+    "author": "Varshith",
+    "tags": [
+      "intro",
+      "first"
+    ],
+    "createdAt": "2025-09-25T05:13:27.745Z",
+    "likes": 0,
+    "status": "published"
+  },
+  {
+    "postId": "1759903146465",
+    "content": "Hello, my first post!",
+    "author": "Varshith",
+    "tags": [
+      "intro",
+      "first"
+    ],
+    "createdAt": "2025-10-08T05:59:06.465Z",
+    "likes": 0,
+    "status": "published"
+  },
+  {
+    "postId": "1759903170619",
+    "content": "Hello, my first post!",
+    "author": "RITHWIK",
+    "tags": [
+      "intro",
+      "first"
+    ],
+    "createdAt": "2025-10-08T05:59:30.619Z",
+    "likes": 0,
+    "status": "published"
+  }
+]

@@ -86,6 +86,10 @@ app.get("/api/posts", async (req, res) => {
   }
 });
 
+app.get("/", (res,req) => {
+    res.send("API is running");
+});
+
 // Start server
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
