@@ -86,7 +86,7 @@ app.get("/api/posts", async (req, res) => {
   }
 });
 
-app.get("/", (res,req) => {
+app.get("/", (req,res) => {
     res.send("API is running");
 });
 
